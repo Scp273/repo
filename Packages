@@ -1,0 +1,15 @@
+
+Package: Scp2.73.snapbreakas
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Scp2.73
+Depends: Firmware(>=11.0).mobilesubstrate
+Conflicts:
+Filename: deb/Scp273.snapbreakas_1.7.1_iphoneos-arm.deb	
+Size: 6465106
+MD5sum: f903416fee6fc00c3e0431c418b50e62
+SHA1: 209cd86c27fc2ac200d468e7cf1cec27497cdd02
+SHA256: 9a64e5fcc8551d48704bc022f1aa06f70f13198b0d530b3876c5612d5b2c0f85
+Section:Tweaks
+Depiction: https://scp273.github.io/sa/
+Name: SnapBreak
